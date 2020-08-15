@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+    color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+body{
+    background-color: yellow;
+}
+
+.titulo{
+    color: cyan;
+}
